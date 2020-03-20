@@ -16,7 +16,7 @@
     "login_image":"login.svg",
     "admin_user":"akhil.kasare80@gmail.com",
     "admin_password": "programmingdone",
-    "upload_location":"C:\\Users\\BISWAJEET BARIKI\\Downloads\\Compressed\\Python-Flask-Blog-master\\static"
+    "upload_location":"/home/akhil/Download"
 
 
   }
